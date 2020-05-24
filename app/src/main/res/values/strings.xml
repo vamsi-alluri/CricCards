@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">CricCards</string>
     <string name="stats_btn">Stats</string>
+    <string name="runs_1">1</string>
+    <string name="runs_2">2</string>
+    <string name="runs_3">3</string>
+    <string name="runs_4">4</string>
+    <string name="runs_6">6</string>
+    <string name="dot_Ball">.</string>
+    <string name="wicket">Wicket</string>
+    <string name="_LBW">Leg By</string>
+    <string name="no_Ball">No Ball</string>
+    <string name="Undo">Undo</string>
     <string name="title_activity_stats">StatsActivity</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
